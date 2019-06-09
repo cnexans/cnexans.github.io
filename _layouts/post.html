@@ -14,7 +14,7 @@ layout: default
 
     {% if page.date %}
       <!-- <br> -->
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% include date_es.html date=page.date time-attributes='id="fecha-post" class="fecha"' %}
     {% endif %}
   </div>
 
