@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Carlos David G. Nexans
+description:    "Hablo de software más que todo."
+url:            "https://cnexans.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         David Nexans
+  name:         Carlos David G. Nexans
   url:          https://cnexans.github.io
   email:        davidnexans@gmail.com
 
